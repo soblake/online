@@ -1163,7 +1163,7 @@ margin-left: auto;
 .latest-navleft > li > a:hover,
 .latest-navleft > li > a:focus {
   text-decoration: none;
-  background-color: #fff;
+  background-color: #F0FG;
   outline: none;
 }
 .latest-navleft>li>button{
